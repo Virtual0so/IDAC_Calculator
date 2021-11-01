@@ -1,0 +1,10 @@
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\bin\Debug\IDACFormulaCalculatorApp.exe.config
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\bin\Debug\IDACFormulaCalculatorApp.exe
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\bin\Debug\IDACFormulaCalculatorApp.pdb
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\obj\Debug\IDACFormulaCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\obj\Debug\IDACFormulaCalculatorApp.Form1.resources
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\obj\Debug\IDACFormulaCalculatorApp.Properties.Resources.resources
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\obj\Debug\IDACFormulaCalculatorApp.csproj.GenerateResource.cache
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\obj\Debug\IDACFormulaCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\obj\Debug\IDACFormulaCalculatorApp.exe
+C:\Users\john\source\repos\IDACFormulaCalculatorApp\IDACFormulaCalculatorApp\obj\Debug\IDACFormulaCalculatorApp.pdb
